@@ -20,11 +20,8 @@ app.get('/api/notes', (req, res) => {
 
 // make an app.post to "WHEN I enter a new note title and the note’s text"
 app.post('/api/notes', (req, res) => {
-
     req.body.id = notes.length.toString();
-
     const note = createNote(req.body, notes);
-
     res.json(note);
 
 });
