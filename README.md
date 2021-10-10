@@ -33,11 +33,11 @@ go to the delpoyed link and start using the app
  
   ## Contributing
 
-  Please DO contribute to this application
+  Please do NOT contribute to this application
  
   ## Tests
   
-  Tests will be written for this application
+  Tests wil NOT be written for this application
 
   ## Questions 
   GitHub: <a href = 'https://github.com/AaronCox73'> AaronCox73 </a>
