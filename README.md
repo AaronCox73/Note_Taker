@@ -1,6 +1,6 @@
 # Note Taker
   
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ 
 
   ## Description 
   
@@ -21,7 +21,7 @@ go to the delpoyed link and start using the app
   
   ## Usage 
   
- example will be show here as a screenshot
+ example will be show here as a screenshot(s)
  
 
   
