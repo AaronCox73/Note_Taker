@@ -9,7 +9,7 @@ const { notes } = require('./Develop/db/db.json');
 //middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static('public'));
+app.use(express.static('./Develop/public'));
 
 
 // get for "GET /api/notes should read the db.json file and return all saved notes as JSON."
